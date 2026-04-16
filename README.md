@@ -4,101 +4,81 @@
 
 ## 💻 Backend Developer | Python | Secure Coding | Testing
 
-🔐 Enfocado en desarrollo seguro y calidad de código
+🔐 **Enfocado en desarrollo seguro y calidad de código**
 
 Desarrollador enfocado en construir sistemas robustos, mantenibles y seguros, aplicando principios sólidos de ingeniería de software y prácticas modernas de desarrollo.
 
 ---
 
-![Python](https://img.shields.io/badge/Python-Backend-blue)
-![Security](https://img.shields.io/badge/Security-Focused-red)
-![Testing](https://img.shields.io/badge/Testing-TDD-green)
-![Code Quality](https://img.shields.io/badge/Code-Clean-blueviolet)
+[![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Security](https://img.shields.io/badge/Security-Focused-red?style=flat-square&logo=google-cloud-security&logoColor=white)](#-seguridad)
+[![Testing](https://img.shields.io/badge/Testing-TDD-green?style=flat-square&logo=pytest&logoColor=white)](#-testing--calidad)
+[![Code Quality](https://img.shields.io/badge/Code-Clean-blueviolet?style=flat-square&logo=sonarqube&logoColor=white)](#-enfoque-de-desarrollo)
 
 ---
 </div>
 
 ## 🧠 Sobre mí
 
-* 🎓 T.S.U en Administración de Empresas y Mercadeo
-* 📚 Formación en Inteligencia Artificial aplicada a la programación (Dicampus)
+* 🎓 **T.S.U en Administración de Empresas y Mercadeo**: Esta base me permite entender los objetivos de negocio detrás del código, traduciendo necesidades comerciales en soluciones técnicas eficientes y rentables.
+* 📚 **Formación en IA aplicada (Dicampus)**: Especializado en optimizar flujos de trabajo y automatización mediante inteligencia artificial.
 
-Desarrollo software con un fuerte enfoque en calidad, seguridad y mantenibilidad, aplicando buenas prácticas reales de la industria.
-
----
-
-## 🚀 Actualmente
-
-* Mejorando la arquitectura de mis proyectos
-* Aplicando testing avanzado
-* Profundizando en desarrollo seguro
-* Experimentando con escenarios controlados para identificar y corregir vulnerabilidades
+Mi enfoque principal es la **calidad, seguridad y mantenibilidad**, aplicando buenas prácticas reales de la industria para crear software que no solo funcione, sino que perdure.
 
 ---
+<!-- 
+## 🏆 Proyectos Destacados
+*(Cámbialos por tus mejores repositorios)*
 
-## 🎯 Objetivo profesional
+* **[Nombre del Proyecto 1](link-al-repo)**: API REST con Flask centrada en seguridad (OAuth2 + Hashing).
+* **[Nombre del Proyecto 2](link-al-repo)**: Sistema de gestión con arquitectura limpia y 90% de cobertura de tests.
 
-Especializarme como desarrollador backend en Python, enfocado en la creación de sistemas seguros, claros y mantenibles.
-
-Busco profundizar en el desarrollo seguro y la ciberseguridad, adoptando un enfoque práctico basado en la experimentación, el análisis de fallos y la mejora continua.
-
----
-
-## ⚙️ Enfoque de desarrollo
-
-* Clean Code
-* Arquitectura limpia
-* Separación de responsabilidades
-* Modularización y refactorización
-* Documentación clara (docstrings)
-* Diseño de sistemas escalables y mantenibles
-
----
-
-## 🔐 Seguridad
-
-* Uso de herramientas como **Bandit** y **Snyk**
-* Implementación de hashing y buenas prácticas de seguridad
-* Interés activo en ciberseguridad
-
----
-
-## 🧪 Testing & calidad
-
-* Testing con **pytest**
-* Enfoque en **TDD (Test-Driven Development)**
-* Métricas de calidad (**coverage**)
-* Análisis con **SonarCloud**
-
----
+--- -->
 
 ## 🛠️ Tecnologías
 
-* Python
-* Flask
-* APIs REST
-* SQLite / MongoDB
-* Git & GitHub
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Pytest-0E0E0E?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
-## 🤖 IA aplicada
+## ⚙️ Enfoque de Desarrollo
 
-* Uso de IA como soporte en desarrollo
-* Automatización de tareas
-* Optimización de workflows
+* **Clean Code & Clean Architecture**: Separación clara de responsabilidades.
+* **Modularización**: Código refactorizado para ser escalable.
+* **Documentación**: Uso riguroso de docstrings y guías de implementación.
+
+## 🔐 Seguridad & Calidad
+
+* **🛡️ Seguridad Activa**: Uso de **Bandit** y **Snyk** para análisis de vulnerabilidades y buenas prácticas en hashing de datos.
+* **🧪 Testing Estratégico**: Desarrollo basado en **TDD (Test-Driven Development)** con **pytest** y monitoreo de cobertura.
+* **📊 Análisis Estático**: Integración con **SonarCloud** para métricas de calidad.
 
 ---
 
-## 📊 Estadísticas
+## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kindred-98\&show_icons=true\&theme=radical)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kindred-98&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kindred-98&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kindred-98\&layout=compact\&theme=radical)
+---
+<div align="center">
+"El código limpio siempre parece que ha sido escrito por alguien a quien le importa. Bajo esa premisa, entiendo que el riesgo no lo define la amenaza, sino nuestra preparación frente a ella."
+</div>
 
 ---
 
 ## 📫 Contacto
 
-* GitHub: https://github.com/kindred-98
-* Linkedin: https://www.linkedin.com/in/kindred98/
+* **LinkedIn**: https://www.linkedin.com/in/kindred98/
+* **GitHub**: [github.com/kindred-98](https://github.com/kindred-98)
+* **Email**: angelechenique134@gmail.com
+
