@@ -43,6 +43,8 @@ Mi enfoque principal es la **calidad, seguridad y mantenibilidad**, aplicando bu
 <p>
   <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-Web_Framework-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-Backend-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pydantic-Data_Validation-009688?style=for-the-badge" />
 </p>
 
 ### Bases de Datos
@@ -67,6 +69,12 @@ Mi enfoque principal es la **calidad, seguridad y mantenibilidad**, aplicando bu
   <img src="https://img.shields.io/badge/Snyk-Vulnerability_Scanner-red?style=for-the-badge&logo=snyk&logoColor=white" />
   <img src="https://img.shields.io/badge/bcrypt-Password_Hashing-grey?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Fernet-Encryption-grey?style=for-the-badge" />
+</p>
+
+### Data & Visualización
+
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-Data_Visualization-11557C?style=for-the-badge" />
 </p>
 
 ### DevOps & Herramientas
