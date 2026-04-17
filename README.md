@@ -38,15 +38,42 @@ Mi enfoque principal es la **calidad, seguridad y mantenibilidad**, aplicando bu
 
 ## 🛠️ Tecnologías
 
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Pytest-0E0E0E?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud" />
+### Backend & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-Web_Framework-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+### Bases de Datos
+
+<p>
+  <img src="https://img.shields.io/badge/SQLite-Database-07405e?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-NoSQL-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### Testing & Calidad
+
+<p>
+  <img src="https://img.shields.io/badge/Pytest-Testing-0E0E0E?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/TDD-Test_Driven_Development-25A162?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SonarCloud-Code_Quality-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" />
+</p>
+
+### Seguridad
+
+<p>
+  <img src="https://img.shields.io/badge/Bandit-Security_Scanner-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Snyk-Vulnerability_Scanner-red?style=for-the-badge&logo=snyk&logoColor=white" />
+  <img src="https://img.shields.io/badge/bcrypt-Password_Hashing-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fernet-Encryption-grey?style=for-the-badge" />
+</p>
+
+### DevOps & Herramientas
+
+<p>
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 ---
