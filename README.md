@@ -4,16 +4,17 @@
 
 ## 💻 Backend Developer | Python | Secure Coding | Testing
 
-🔐 **Enfocado en desarrollo seguro y calidad de código**
-
 Desarrollador enfocado en construir sistemas robustos, mantenibles y seguros, aplicando principios sólidos de ingeniería de software y prácticas modernas de desarrollo.
+
+🔐 **Porque el código que importa, perdura.**
 
 ---
 
 [![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Security](https://img.shields.io/badge/Security-Focused-red?style=flat-square&logo=google-cloud-security&logoColor=white)](#-seguridad)
-[![Testing](https://img.shields.io/badge/Testing-TDD-green?style=flat-square&logo=pytest&logoColor=white)](#-testing--calidad)
-[![Code Quality](https://img.shields.io/badge/Code-Clean-blueviolet?style=flat-square&logo=sonarqube&logoColor=white)](#-enfoque-de-desarrollo)
+[![Security](https://img.shields.io/badge/Security-Bandit%20%2B%20Snyk-red?style=flat-square&logo=shield&logoColor=white)](#-seguridad--calidad)
+[![Testing](https://img.shields.io/badge/Testing-TDD%20%7C%2080%25%20Coverage-green?style=flat-square&logo=pytest&logoColor=white)](#-seguridad--calidad)
+[![Code Quality](https://img.shields.io/badge/Code-SonarCloud-blueviolet?style=flat-square&logo=sonarqube&logoColor=white)](#-enfoque-de-desarrollo)
+
 
 ---
 </div>
@@ -44,21 +45,29 @@ Mi enfoque principal es la **calidad, seguridad y mantenibilidad**, aplicando bu
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Pytest-0E0E0E?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud" />
 </p>
 
 ---
 
 ## ⚙️ Enfoque de Desarrollo
 
-* **Clean Code & Clean Architecture**: Separación clara de responsabilidades.
-* **Modularización**: Código refactorizado para ser escalable.
-* **Documentación**: Uso riguroso de docstrings y guías de implementación.
+* **Clean Code & Clean Architecture**: Separación clara de responsabilidades con estructura modular — un módulo por función, exports limpios vía `__init__.py`.
+* **Modularización estratégica**: Código refactorizado para escalar sin deuda técnica, aplicando nomenclatura descriptiva y convenciones de acceso privado.
+* **Documentación rigurosa**: Uso consistente de docstrings, guías de implementación y changelogs estructurados en cada repositorio.
 
 ## 🔐 Seguridad & Calidad
 
-* **🛡️ Seguridad Activa**: Uso de **Bandit** y **Snyk** para análisis de vulnerabilidades y buenas prácticas en hashing de datos.
-* **🧪 Testing Estratégico**: Desarrollo basado en **TDD (Test-Driven Development)** con **pytest** y monitoreo de cobertura.
-* **📊 Análisis Estático**: Integración con **SonarCloud** para métricas de calidad.
+* **🛡️ Seguridad activa**: Uso de **Bandit** y **Snyk** para análisis de vulnerabilidades; **Fernet + bcrypt** para hashing y cifrado de datos sensibles.
+* **🧪 Testing estratégico**: Desarrollo basado en **TDD** con **pytest**; pipelines con cobertura mínima del 80% como gate de calidad en CI/CD.
+* **📊 Análisis estático**: Integración con **SonarCloud** para métricas de calidad y detección temprana de code smells.
+
+## 🤖 IA Aplicada al Desarrollo
+
+* **Asistencia en generación de código**: Uso de modelos de lenguaje como soporte en escritura, revisión y refactorización, manteniendo criterio propio sobre cada decisión técnica.
+* **Automatización de flujos de trabajo**: Diseño de pipelines y scripts asistidos por IA para reducir tareas repetitivas en el ciclo de desarrollo.
+* **Optimización de workflows**: Integración de IA en el proceso de testing, documentación y análisis estático, acelerando la detección de problemas y la calidad del código.
 
 ---
 
@@ -69,16 +78,18 @@ Mi enfoque principal es la **calidad, seguridad y mantenibilidad**, aplicando bu
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kindred-98&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
----
+--- 
 <div align="center">
-"El código limpio siempre parece que ha sido escrito por alguien a quien le importa. Bajo esa premisa, entiendo que el riesgo no lo define la amenaza, sino nuestra preparación frente a ella."
+
+*"El código limpio siempre parece que ha sido escrito por alguien a quien le importa. Bajo esa premisa, entiendo que el riesgo no lo define la amenaza, sino nuestra preparación frente a ella."*
+
 </div>
 
 ---
 
 ## 📫 Contacto
 
-* **LinkedIn**: https://www.linkedin.com/in/kindred98/
+* **LinkedIn**: [linkedin.com/in/kindred98](https://www.linkedin.com/in/kindred98/)
 * **GitHub**: [github.com/kindred-98](https://github.com/kindred-98)
 * **Email**: angelechenique134@gmail.com
 
