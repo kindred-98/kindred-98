@@ -10,13 +10,28 @@ Desarrollador enfocado en construir sistemas robustos, mantenibles y seguros, ap
 
 ---
 
-[![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Security](https://img.shields.io/badge/Security-Bandit%20%2B%20Snyk-red?style=flat-square&logo=shield&logoColor=white)](#-seguridad--calidad)
-[![Testing](https://img.shields.io/badge/Testing-TDD%20%7C%2080%25%20Coverage-green?style=flat-square&logo=pytest&logoColor=white)](#-seguridad--calidad)
-[![Code Quality](https://img.shields.io/badge/Code-SonarCloud-blueviolet?style=flat-square&logo=sonarqube&logoColor=white)](#-enfoque-de-desarrollo)
+[![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-API-black?style=flat-square\&logo=flask\&logoColor=white)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Modern_API-009688?style=flat-square\&logo=fastapi\&logoColor=white)](#)
+[![APIs](https://img.shields.io/badge/APIs-REST-blue?style=flat-square)](#)
 
+[![Testing](https://img.shields.io/badge/Testing-Pytest-green?style=flat-square\&logo=pytest\&logoColor=white)](#)
+[![TDD](https://img.shields.io/badge/TDD-Driven_Testing-green?style=flat-square)](#)
+[![Coverage](https://img.shields.io/badge/Coverage-80%25-brightgreen?style=flat-square)](#)
+[![Quality](https://img.shields.io/badge/Quality-SonarCloud-blueviolet?style=flat-square\&logo=sonarcloud\&logoColor=white)](#)
+[![Linting](https://img.shields.io/badge/Linting-flake8-yellow?style=flat-square)](#)
+
+[![Security](https://img.shields.io/badge/Security-Bandit%20%2B%20Snyk-red?style=flat-square)](#)
+[![Hashing](https://img.shields.io/badge/Hashing-bcrypt-grey?style=flat-square)](#)
+[![Encryption](https://img.shields.io/badge/Encryption-Fernet-grey?style=flat-square)](#)
+
+[![Database](https://img.shields.io/badge/Database-SQLite%20%7C%20MongoDB%20%7C%20PostgreSQL-blue?style=flat-square)](#)
+
+[![Git](https://img.shields.io/badge/Git-Version_Control-F05033?style=flat-square\&logo=git\&logoColor=white)](#)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=white)](#)
 
 ---
+
 </div>
 
 ## 🧠 Sobre mí
@@ -35,56 +50,6 @@ Mi enfoque principal es la **calidad, seguridad y mantenibilidad**, aplicando bu
 * **[Nombre del Proyecto 2](link-al-repo)**: Sistema de gestión con arquitectura limpia y 90% de cobertura de tests.
 
 --- -->
-
-## 🛠️ Tecnologías
-
-### Backend & Frameworks
-
-<p>
-  <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-Web_Framework-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-Backend-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pydantic-Data_Validation-009688?style=for-the-badge" />
-</p>
-
-### Bases de Datos
-
-<p>
-  <img src="https://img.shields.io/badge/SQLite-Database-07405e?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-NoSQL-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### Testing & Calidad
-
-<p>
-  <img src="https://img.shields.io/badge/Pytest-Testing-0E0E0E?style=for-the-badge&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/TDD-Test_Driven_Development-25A162?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SonarCloud-Code_Quality-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" />
-</p>
-
-### Seguridad
-
-<p>
-  <img src="https://img.shields.io/badge/Bandit-Security_Scanner-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Snyk-Vulnerability_Scanner-red?style=for-the-badge&logo=snyk&logoColor=white" />
-  <img src="https://img.shields.io/badge/bcrypt-Password_Hashing-grey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fernet-Encryption-grey?style=for-the-badge" />
-</p>
-
-### Data & Visualización
-
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-Data_Visualization-11557C?style=for-the-badge" />
-</p>
-
-### DevOps & Herramientas
-
-<p>
-  <img src="https://img.shields.io/badge/Git-Version_Control-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
-
----
 
 ## ⚙️ Enfoque de Desarrollo
 
