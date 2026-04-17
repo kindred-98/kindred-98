@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Ángel Echenique
 
-## 💻 Backend Developer | Python | Secure Coding | Testing
+## 💻 Backend Developer Junior | Python | Secure Coding | Testing
 
 Desarrollador enfocado en construir sistemas robustos, mantenibles y seguros, aplicando principios sólidos de ingeniería de software y prácticas modernas de desarrollo.
 
