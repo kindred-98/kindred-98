@@ -22,7 +22,7 @@ Desarrollador enfocado en construir sistemas robustos, mantenibles y seguros, ap
 ## 🧠 Sobre mí
 
 * 🎓 **T.S.U en Administración de Empresas y Mercadeo**: Esta base me permite entender los objetivos de negocio detrás del código, traduciendo necesidades comerciales en soluciones técnicas eficientes y rentables.
-* 📚 **Formación en IA aplicada (Dicampus)**: Especializado en optimizar flujos de trabajo y automatización mediante inteligencia artificial.
+* 📚 **Formación en IA aplicada al desarrollo (Dicampus)**: Especializado en el uso de modelos de IA como herramienta de ingeniería para automatización de tareas, refactorización asistida, generación de documentación y optimización de workflows dentro del ciclo de desarrollo.
 
 Mi enfoque principal es la **calidad, seguridad y mantenibilidad**, aplicando buenas prácticas reales de la industria para crear software que no solo funcione, sino que perdure.
 
