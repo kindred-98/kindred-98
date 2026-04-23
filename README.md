@@ -50,5 +50,4 @@ Desarrollador enfocado en construir sistemas **robustos, mantenibles y seguros**
 | Tipo | Enlace |
 |------|--------|
 | 💼 **LinkedIn** | https://www.linkedin.com/in/kindred98/ |
-| 💻 **GitHub** | https://github.com/kindred-98 |
-| 📧 **Email** | angelechenique134@gmail.com |
+| 📧 **Email** | angelecheniq@gmail.com |
