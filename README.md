@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=200&section=header&text=Ángel%20Echenique&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20|%20Secure%20Coding%20|%20Testing&descAlignY=60&descSize=20" />
 
-  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
@@ -35,19 +34,11 @@ Desarrollador enfocado en construir sistemas **robustos, mantenibles y seguros**
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kindred-98&theme=tokyonight)
 
-</div>
-
-
-
-## 💬 Filosofía
-
-> “El código limpio siempre parece que ha sido escrito por alguien a quien le importa. Bajo esa premisa, entiendo que el riesgo no lo define la amenaza, sino nuestra preparación frente a ella.”
-
-
-
 ## 📫 Contacto
 
 | Tipo | Enlace |
 |------|--------|
 | 💼 **LinkedIn** | https://www.linkedin.com/in/kindred98/ |
 | 📧 **Email** | angelecheniq@gmail.com |
+
+</div>
