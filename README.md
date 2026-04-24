@@ -34,8 +34,12 @@ Desarrollador enfocado en construir sistemas **robustos, mantenibles y seguros**
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kindred-98&theme=tokyonight)
 
+</div>
+
 ## 📫 Contacto
 
+<div align="center">
+  
 | Tipo | Enlace |
 |------|--------|
 | 💼 **LinkedIn** | https://www.linkedin.com/in/kindred98/ |
