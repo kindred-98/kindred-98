@@ -28,9 +28,15 @@ Desarrollador enfocado en construir sistemas **robustos, mantenibles y seguros**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kindred-98&show_icons=true&theme=tokyonight" />
+<!-- TODO: Reemplazar 'github-readme-stats-eight-theta' con tu URL de Vercel (ver SETUP_STATS.md) -->
+<a href="#">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kindred-98&show_icons=true&theme=tokyonight&hide_border=true" align="left" />
+</a>
+<a href="#">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kindred-98&layout=compact&theme=tokyonight&hide_border=true" align="right" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kindred-98&layout=compact&theme=tokyonight" />
+<br clear="both" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kindred-98&theme=tokyonight)
 
